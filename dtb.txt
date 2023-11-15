@@ -1,0 +1,21 @@
+id firstName lastName birthDate addressData gender departmntId tbl-jovit
+departmentId departmentName
+
+1. accounting
+2. engineering
+3. hr
+4. it
+5. purchasing
+6. production
+7. impex
+8. ppic
+9. sales
+10. rpd
+11. logistics
+12. fvi
+13. qc
+14. utility
+15.security
+16.qa
+17.top management
+18. dcc
